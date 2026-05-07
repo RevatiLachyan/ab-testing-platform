@@ -27,14 +27,13 @@ If I made every control user take exactly 45 minutes and every treatment user ta
 
 By adding realistic variation, I'm simulating the challenge of real data: finding signal through noise.
 
-### What this project proves I can do
+### What I'm learning through this project
 
-When I show this to hiring managers, it demonstrates:
-
-- **I understand uncertainty**: Even when an improvement is real, individual results vary
-- **I can design experiments**: Choosing the right sample size, metrics, and test duration
-- **I know my statistics**: Applying t-tests, calculating confidence intervals, interpreting p-values
-- **I can communicate results**: Translating "p < 0.001" into "This makes onboarding 29% faster, which means 500 more activated users per month"
+By working with realistic synthetic data, I'm building skills in:
+- Understanding how uncertainty works in real experiments
+- Designing experiments with appropriate sample sizes and metrics
+- Applying statistical tests correctly and interpreting results
+- Communicating findings to non-technical stakeholders
 
 ### Think of it like a flight simulator
 
