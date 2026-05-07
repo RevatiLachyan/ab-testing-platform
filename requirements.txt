@@ -1,0 +1,23 @@
+# Data manipulation
+pandas==2.1.4
+numpy==1.26.3
+
+# Database
+duckdb==0.10.0
+
+# Statistical analysis
+scipy==1.11.4
+statsmodels==0.14.1
+pingouin==0.5.4
+
+# Dashboard
+streamlit==1.29.0
+plotly==5.18.0
+
+# Data generation
+faker==22.0.0
+
+# Development
+pytest==7.4.3
+jupyter==1.0.0
+black==23.12.1
